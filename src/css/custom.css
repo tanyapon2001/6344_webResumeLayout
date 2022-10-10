@@ -13,8 +13,7 @@ header{
     overflow: hidden;
 }
 body{
-    background-image: linear-gradient(to top, #e1bdca, #e5b9c8, #e9b5c5, #ecb0c2, #f0acbe);
-}
+    background-image: linear-gradient(to left bottom, #dd95e0, #ec97d4, #f69bc8, #fca0be, #ffa7b6);}
 #menu{
     /*background-color: rgb(223, 179, 179);*/
     width: 500px;
